@@ -1,1 +1,9 @@
-font_family Ioskeley
+# BEGIN_KITTY_FONTS
+font_family      family='IoskeleyMono Nerd Font' postscript_name=IoskeleyMonoNF-SemiCondensed
+bold_font        auto
+italic_font      auto
+bold_italic_font auto
+# END_KITTY_FONTS
+# font_size 12
+
+hide_window_decorations yes
